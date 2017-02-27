@@ -1,7 +1,7 @@
 
  // Show blank map of SF
  var slide1 = {
-   title: "San Francisco Crime On Holidays",
+   title: "San Francisco Holiday Crime",
    text: "Crime is often a result of criminals seizing an opportunity. During " +
          "holidays, there are different opprtunities for " +
          "criminals. "
@@ -23,7 +23,7 @@ var slide2 = {
 // Same as above but zoomed into Tenderloin
 var slide3 = {
   title: "Halloween Thefts",
-  text: "The most thefts happened on Halloween with 130 thefts across" +
+  text: "The most thefts happened on Halloween, with 130 thefts across" +
         " the city."
 };
 
