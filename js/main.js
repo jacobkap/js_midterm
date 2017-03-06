@@ -30,7 +30,7 @@ makeMap = function(data) {
       holiday = spooky;
     } else if (crime.date == "2016-11-24T00:00:00.000") {
       holiday = turkey;
-    } else { holiday = gingerbread; }
+    } else { holiday = santa; }
 
 
     markersTemp = new L.marker([crime.y, crime.x] , {icon: holiday});

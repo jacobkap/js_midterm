@@ -30,19 +30,19 @@ $.ajax({
 
 
 var turkey = L.icon({
-        iconUrl: 'http://www.freeiconspng.com/uploads/turkey-png-12.png',
-        iconSize: [50, 60], // size of the icon
+        iconUrl: 'turkey-icon.png',
+        iconSize: [40, 50], // size of the icon
         popupAnchor: [0,-15]
         });
 
-var gingerbread = L.icon({
-                iconUrl: 'http://www.freeiconspng.com/uploads/candy-christmas-cookie-icon--9.png',
-                iconSize: [50, 60], // size of the icon
+var santa = L.icon({
+                iconUrl: 'santa.png',
+                iconSize: [40, 50], // size of the icon
                 popupAnchor: [0,-15]
                 });
 
-var spooky = L.icon({iconUrl: 'http://www.freeiconspng.com/uploads/halloween-pumpkin-png-11.png',
-                                iconSize: [50, 60], // size of the icon
+var spooky = L.icon({iconUrl: 'Pumpkin-icon.png',
+                                iconSize: [40, 50], // size of the icon
                                 popupAnchor: [0,-15]
                                 });
 
